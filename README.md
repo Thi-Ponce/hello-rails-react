@@ -18,7 +18,17 @@
 
 * open with your preffered code editor.
 
-* remember to use commands to install all necessary gems and requirements such as: `bundle install`, `rails db:create`, `rails db:migrate`, and `yarn install` or `npm install`
+* use `bundle install` to make sure all the gems are installed
+
+* use `npm install or yarn install` to make sure every dependancy and library is installed
+
+* use `rails db:create` to create the database
+
+* use `rails db:migrate` to populate your database
+
+* if you wish to add more messages feel free to put them on the seed.rb file using the templeate provided there
+
+* to see your project live use `rails s`
 
 ## Authors:
 
