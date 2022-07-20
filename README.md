@@ -6,14 +6,11 @@
 
 ## Built With
 
-- Ruby
 - Ruby on Rails
 - React
-
-
 - Ruby version 3.1.2
 
-- Configuration
+## Configuration
 
 * git clone `https://github.com/Thi-Ponce/hello-rails-react.git`
 
