@@ -11,9 +11,7 @@
 - React
 
 
-- Ruby version
-
-* 3.1.2
+- Ruby version 3.1.2
 
 - Configuration
 
